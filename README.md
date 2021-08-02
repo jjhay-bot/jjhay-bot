@@ -4,14 +4,12 @@
  🔭 I’m currently studying on **Avion School**
 <p align="center">
  🌱 I’m currently learning **Ruby on Rails, Bootstrap and other frame works**
-<p align="center">
-   👨‍💻 All of my projects are available at https://portfolio182021.herokuapp.com
+<p align="center"> 👨‍💻  All of my projects are available at <a href="https://portfolio182021.herokuapp.com"> jjhay</a> </p>
  
- <p align="center">
- <img src="https://github.com/jjhay-bot/jjhay-bot/blob/main/2021-08-02%2023_51_42-Start.png?raw=true" heigth="400">
- </p>
 <p align="center">
-   📫 How to reach me **jhay.alcorcon@gmail.com**
+<img src="https://github.com/jjhay-bot/jjhay-bot/blob/main/2021-08-02%2023_51_42-Start.png?raw=true" heigth="400">
+</p>
+<p align="center"> 📫 How to reach me <a href="jhay.alcorcon@gmail.com"> jhay.alcorcon@gmail.com </a> </p>
 <p align="center">
  ⚡ Fun fact **I'm interested in cryptocurrency 🤫**
 </p>
