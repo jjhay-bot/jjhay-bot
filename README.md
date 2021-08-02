@@ -13,7 +13,7 @@
 <p align="center">
    📫 How to reach me **jhay.alcorcon@gmail.com**
 <p align="center">
- ⚡ Fun fact **I'm interested in crypto currency 🤫**
+ ⚡ Fun fact **I'm interested in cryptocurrency 🤫**
 </p>
 
 ## <img src="https://i.giphy.com/media/NJOQwKNGpt31VwOGqR/200.webp" width="50"> Stats
