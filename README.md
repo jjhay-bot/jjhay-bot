@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhay Jhay</h1>
-<h3 align="center">A passionate full stack developer from Philippine</h3>
+<h3 align="center">A passionate full stack developer from Philippines</h3>
 <p align="center">
  🔭 I’m currently studying on **Avion School**
 <p align="center">
