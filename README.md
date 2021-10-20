@@ -48,10 +48,3 @@
           
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<br>
 </p>
-<br/>
-<p align="center">
-  <a href="https://github.com/jjhay-bot/github-readme-activity-graph"><img alt="jjhay-bot's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jjhay-bot&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</p>
-<br/>
-<br/>
-
