@@ -22,7 +22,7 @@
 <br/><br/>
 
 
-<p align="center"> 👨‍💻  All of my projects are available at <a href="https://portfolio182021.herokuapp.com"> jjhay</a> </p>
+<p align="center"> 👨‍💻  All of my projects are available at <a href="https://www.canva.com/design/DAE6Um5RXno/w5DVhBXTj_8G90l9s_cOSw/view"> jjhay</a> </p>
 
 <p align="center"> 📫 How to reach me <a href="jhay.alcorcon@gmail.com"> jhay.alcorcon@gmail.com </a> </p>
 
