@@ -3,8 +3,17 @@
 <p align="center">
  <i align="center">"Less is more"</i>
 <p align="center">
-<img src="https://github.com/jjhay-bot/jjhay-bot/blob/main/2021-08-02%2023_51_42-Start.png?raw=true" heigth="400">
-</p>
+<a
+  href="https://jhay.alcorcon.dev"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <img
+    src="https://github.com/jjhay-bot/jjhay-bot/blob/main/2021-08-02%2023_51_42-Start.png?raw=true"
+    height="400"
+    alt="Project preview"
+  />
+</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
