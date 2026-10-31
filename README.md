@@ -1,59 +1,72 @@
-<h1 align="center">Hi 👋, I'm Jhay Jhay</h1>
-<h3 align="center">A passionate full stack developer from Philippines</h3>
-<p align="center">
- <i align="center">"Less is more"</i>
-<p align="center">
-<a
-  href="https://jhay.alcorcon.dev"
-  target="_blank"
-  rel="noopener noreferrer"
->
-  <img
-    src="https://github.com/jjhay-bot/jjhay-bot/blob/main/2021-08-02%2023_51_42-Start.png?raw=true"
-    height="400"
-    alt="Project preview"
-  />
-</a></p>
+# Hi, I'm Jhay 👋
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://codepen.io/jjhay-bot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jjhay-bot" height="30" width="40" /></a>
-<a href="https://twitter.com/cjjdalcorcon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cjjdalcorcon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jhay-jhay-alcorcon-7b28a1141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhay-jhay-alcorcon-7b28a1141" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15469580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15469580" height="30" width="40" /></a>
-<a href="https://dribbble.com/jjdalcorcon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jjdalcorcon" height="30" width="40" /></a>
-<a href="https://www.behance.net/jhay.alcorcon@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jhay.alcorcon@gmail.com" height="30" width="40" /></a>
-<a href="https://medium.com/@jhay.alcorcon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jhay.alcorcon" height="30" width="40" /></a>
-</p><br/>
+**Software Engineer | React, Next.js, TypeScript & API Integration | Building useful products and better web experiences**
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-<br/><br/>
+I'm a Philippines-based software engineer with a background in civil engineering. I enjoy turning messy requirements into clear interfaces, practical workflows, and reliable software. My work spans internal business tools, responsive web apps, APIs, and creative websites for small businesses.
 
+### 🌐 Explore my work: **[jhay.alcorcon.dev](https://jhay.alcorcon.dev/)**
 
-<p align="center"> 👨‍💻  All of my projects are available at <a href="https://www.canva.com/design/DAE6Um5RXno/w5DVhBXTj_8G90l9s_cOSw/view"> jjhay</a> </p>
+**[View my portfolio and live website concepts →](https://jhay.alcorcon.dev/)**
 
-<p align="center"> 📫 How to reach me <a href="jhay.alcorcon@gmail.com"> jhay.alcorcon@gmail.com </a> </p>
+> Open to remote software engineering roles, contract projects, and collaborations. I bring a product mindset, take ownership of implementation, and care about what actually helps users.
 
-<p align="center">
- ⚡ Fun fact I'm interested in cryptocurrency 🤫
-</p>
+---
 
-<br/>
+## What I'm working on
 
-## <img src="https://i.giphy.com/media/NJOQwKNGpt31VwOGqR/200.webp" width="50"> Stats
-<p align="center">
-   <a href="https://github.com/jjhay-bot/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="jjhay-bot's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jjhay-bot&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p><br/>
+### 🎯 Creative Radar: web experiences for real businesses
 
-<p align="center">
-    <a href="https://github.com/jjhay-bot/github-readme-stats"><img alt="jjhay-bot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jjhay-bot&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br><br/>
- <p align="center">
-  <a href="https://github.com/jjhay-bot/github-readme-stats"><img alt="jjhay-bot's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjhay-bot&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/><br/>
-          
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.<br>
-</p>
+**[Explore Creative Radar on my portfolio](https://jhay.alcorcon.dev/)** · [Website concept collection](https://jhay.alcorcon.dev/all-proposals)
+
+I'm building Creative Radar as a hands-on practice in product thinking, design, engineering, and client discovery. I research small businesses, explore how a better website could serve their customers, and build responsive, interactive website *proposals* to demonstrate the ideas.
+
+- Design and implement tailored website concepts instead of generic templates.
+- Experiment with scroll-driven storytelling, thoughtful motion, accessibility, and mobile-first design.
+- Build repeatable processes for research, implementation, review, and deployment.
+- Learn the business side: outreach, communicating value, packaging services, and gathering feedback.
+
+**Featured concepts:** [Giant Store Kendal Workshop](https://jhay.alcorcon.dev/all-proposals/giant-store-kendal-workshop) · [Expertise Alterations Toowoomba](https://jhay.alcorcon.dev/all-proposals/expertise-alterations-toowoomba)
+
+*These are independent concept/proposal projects, not claims of commissioned work or endorsement by the businesses featured.*
+
+### 🛠 Selected projects
+
+| Project | What it demonstrates | Live site |
+| --- | --- | --- |
+| **Creative Radar / Website Hub** | Responsive sites, motion, concept design, and a repeatable proposal workflow | [Explore concepts](https://jhay.alcorcon.dev/all-proposals) |
+| **ICLA website revamp** | Website redesign and education-focused portal exploration | [Staging preview](https://icla-stg.cofeeui.com/) |
+| **BakeBoard** | Early-stage home-bakery order management and scheduling product | [MVP](https://bakeboard.cofeeui.com/) |
+
+Some of my engineering work lives in private or organization repositories. I'm happy to discuss architecture, tradeoffs, and my specific contributions.
+
+## How I build
+
+**Frontend:** React, Next.js, TypeScript, JavaScript, Material UI, Redux Toolkit, Apollo GraphQL, HTML/CSS
+
+**Backend & data:** Node.js, Express, REST, GraphQL, PostgreSQL, Supabase
+
+**Creative development:** GSAP, Motion / Framer Motion, React Three Fiber, responsive animation
+
+**Workflow & deployment:** Git, GitHub Actions, Cloudflare Pages, Vercel, Railway, Docker
+
+I care about maintainable code, accessible user experiences, sensible performance, and shipping a small useful solution before overengineering it.
+
+## Currently improving 🌱
+
+- **Backend engineering:** API design, authentication, data modeling, and ASP.NET Core.
+- **Software reliability:** CI/CD, build efficiency, observability, security, and deployment architecture.
+- **Product development:** validating assumptions, building small MVPs, pricing, and customer discovery.
+- **Design craft:** stronger visual storytelling, purposeful interactions, and better mobile experiences.
+- **AI-assisted development:** using coding agents to accelerate implementation while keeping human review and quality standards.
+
+## Beyond code
+
+I originally trained in **civil engineering**, which still shapes how I think about constraints, systems, and practical problem-solving. I like exploring business ideas, learning how everyday products work behind the scenes, experimenting with creative web design, and turning what I learn into small working projects.
+
+## Let's connect
+
+**Start here:** ⭐ **[My portfolio: jhay.alcorcon.dev](https://jhay.alcorcon.dev/)**
+
+[LinkedIn](https://linkedin.com/in/jhay-jhay-alcorcon-7b28a1141) · [GitHub](https://github.com/jjhay-bot) · [Email](mailto:contact@alcorcon.dev)
+
+*Based in the Philippines · Interested in remote opportunities and meaningful collaborations.*
